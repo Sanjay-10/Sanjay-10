@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently pursuing Master Of Applied Computing at UWindsor.<br>👯 I’m looking to collaborate on Full Stack projects.<br>♟️ I’m always up for a game of chess!<br>📈 I'm also keen on exploring the stock market and making informed investment decisions.
+📚 I’m currently pursuing Master Of Applied Computing at University of Windsor.<br>👯 I’m looking to collaborate on Full Stack projects.<br>♟️ I’m always up for a game of chess!<br>📈 I'm also keen on exploring the stock market and making informed investment decisions.
 
 
 ## 🌐 Socials:
