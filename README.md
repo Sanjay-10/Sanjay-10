@@ -1,5 +1,4 @@
-<img>![Pink Modern Wedding Organizer LinkedIn Banner (3)](https://github.com/user-attachments/assets/9937118f-8f75-41b8-977f-c66a3fc22731)
-</img>
+![Pink Modern Wedding Organizer LinkedIn Banner (3)](https://github.com/user-attachments/assets/9937118f-8f75-41b8-977f-c66a3fc22731)
 
 # 💫 About Me:
 📚 I’m currently pursuing Master Of Applied Computing at University of Windsor.<br>👯 I’m looking to collaborate on Full Stack projects.<br>♟️ I’m always up for a game of chess!<br>📈 I'm also keen on exploring the stock market and making informed investment decisions.
